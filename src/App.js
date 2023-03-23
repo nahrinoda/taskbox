@@ -9,6 +9,7 @@ function App() {
  return (
   <Provider store={store}>
     <InboxScreen />
+    <p style={{opacity: 0}}>learn react</p>
   </Provider>
  );
 }
